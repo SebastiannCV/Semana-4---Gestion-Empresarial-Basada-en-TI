@@ -1,3 +1,3 @@
 history
 console.log("Hola mundo");
-console.log("Kbro eres un genio");
+console.log("eres un genio");
